@@ -1,4 +1,4 @@
-# Kundalini Vitality App
+# Stargazer App
 
 ### Un mensaje para la conciencia profunda y el viaje del ser
 
