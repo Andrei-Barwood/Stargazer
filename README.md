@@ -87,7 +87,7 @@ Este es un proyecto **ambicioso** porque aspira a transformar, no solo a contabi
 
 ```
 apk add git
-git clone https://github.com/tuusuario/Stargazer.git
+git clone https://github.com/Andrei-Barwood/Stargazer.git
 cd Stargazer
 ```
 Puedes explorar los archivos, editar desde Termux/iSH con pico/nano/codigo remoto
