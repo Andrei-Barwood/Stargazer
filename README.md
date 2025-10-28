@@ -102,7 +102,8 @@ Contemporary society lives in a permanent conflict between time, space, and the 
 It's not just about quantifying health, but about teaching, accompanying, and freeing minds and hearts from fear and limiting beliefs about the fear of death and the pain of birth.
 
 - 🚀 **Empowering individuality:**
-Each user can see themselves reflected as a "cloud projected into infinity," learning that pain and fear have a purpose, but not dominion. - 🤝 **Generating collective trust:**
+Each user can see themselves reflected as a "cloud projected into infinity," learning that pain and fear have a purpose, but not dominion. 
+- 🤝 **Generating collective trust:**
 By making inner reflection visible, we allow trust to become the standard, first in the individual and then in the community.
 
 - 🌈 **Building bridges between the spiritual and the scientific:**
