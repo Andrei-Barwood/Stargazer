@@ -1,105 +1,76 @@
-# Stargazer App
+🩸🍋 Alkalinizing Your Blood to Transform Your Life
+The ability to synthesize and assimilate the principles and practices of this app into daily life should be reflected in real changes in your blood.
+🧪 In Western medicine, blood pH is a primary marker of well-being, while Ayurvedic medicine maintains that blood balance determines a person's vitality and longevity.
 
-### Un mensaje para la conciencia profunda y el viaje del ser
+Therefore, the app reads your pH level and acts as a holistic reminder:
 
-**Este proyecto nace desde el contraste y el conflicto que habitan en el interior del ser humano. En cada instante donde la duda y la verdad se encuentran, florece la oportunidad para iluminar la conciencia: podemos mirar el dolor, la mentira y el miedo no como enemigos, sino como portales de aprendizaje.**
+If your pH is too acidic (⚠️), it reminds you that blood should be mostly alkaline to protect life and energy.
 
-Al construir este espacio, honramos el acto de aceptar que todo lo que tiene forma y es material está sujeto a espacio y tiempo. Reconocemos, sin vergüenza, que la libertad trascendente no depende de la negación del mundo físico, sino de la dignidad con la que enfrentamos nuestras limitaciones y decidimos existir con propósito.  
-Liberados, el tiempo y el espacio pierden su dominio sobre nosotros; lo único esencial es ser dignos de confianza, capaces de decidir gozar la existencia en este espacio natural, sagrado, que ninguna fuerza abrupta, ni deseo destructivo, puede vulnerar deliberadamente.
+To alkalize your blood, it encourages the consumption of:
 
-La verdadera tarea es configurar en nuestra mente el entendimiento profundo del miedo a la muerte y el dolor sagrado del nacimiento. Superar estos dos elementos significa aprender a proyectar nuestras ideas como nubes: nubes con materia, electricidad, fibra y psique. Nosotros somos esas nubes—nos movemos bajo los cielos y nos expandimos desde el infinito, sin tiempo, sin espacio, sin limitaciones innecesarias.
+🍋 Lemons
 
-Cada vez que una mentira habita nuestra actitud, cada vez que una verdad vulnera nuestra sensibilidad, recordemos:  
-**La conciencia no se destruye, solo se transforma.  
-La confianza en el viaje es la clave para la proyección del ser.  
-Vivimos y proyectamos nuestra esencia, así como las nubes dibujan formas en el aire, transformando el infinito en experiencia sin limitaciones.**
+🍊 Oranges
 
-Este proyecto no busca solo mejorar la vitalidad física. Busca acompañar la mente para comprender el lugar de las nubes y la electricidad en nuestra psique, para liberarse de las limitaciones que la materia impone, y para recordar que toda forma depende de tiempo y espacio—pero el ser trascendido no.
+🥔 Potatoes
 
-> **Bajo cualquier cielo, somos dignos de existir, dignos de confianza y dignos de viajar hacia la libertad interior.**
+🌾 Wheat bran
 
----
+🥗 Salads with green vegetables (exclusively green)
 
-## 🛠️ Detalles Técnicos & Estándares
+🥑 Avocados
 
-- 📁 **Estructura Modular:**  
-  El proyecto está organizado en directorios claros:  
-  - `Shared/Models` para los datos principales  
-  - `Shared/Data` para gestores y almacenamiento  
-  - `WatchApp/` y `MacApp/` para interfaces optimizadas en cada plataforma  
-  - `iCloudSync/` para sincronización segura en la nube  
-  - `Tests/` para calidad y confiabilidad
+🌱 Sprouts
 
-- 💻 **Swift & SwiftUI:**  
-  Utiliza Swift moderno y SwiftUI para interfaces reactivas, seguras y hermosas en Watch y Mac.
+🌶️ Green chilies
 
-- 🌍 **Sincronización CloudKit:**  
-  Permite que todos tus datos vitales y espirituales viajen contigo, siempre seguros y privados.
+🫒 Olives or pistachios
 
-- 🔐 **Privacidad Primero:**  
-  Los modelos y gestores están diseñados para cumplir las normas contemporáneas de privacidad (GDPR-friendly, datos locales y nube configurables).
+☕ Yogi tea
 
-- 🧪 **Testing Automatizado:**  
-  Incluye ejemplos y espacios para pruebas unitarias, asegurando que cada modelo y flujo sea sostenible y robusto.
+🥕🍠🥬 Carrot juice, beet juice, celery juice, or a combination of the three.
 
-- 🌀 **Customización Visual Inspirada:**  
-  Mandalas, gradientes y “personajes” se adaptan al día, creando una experiencia emocional y personalizada.
+From time to time, the app also reminds you of this Ayurvedic and medical principle 👩‍⚕️👨‍⚕️:
 
----
+A vegetarian diet is good because:
 
-## 🌞 Importancia Social & Filosófica
+🌬️ It helps regulate circulation and preserves the elasticity of the arteries.
 
-La sociedad contemporánea vive un conflicto permanente entre el tiempo, el espacio y la capacidad de sentir. En un mundo donde la vitalidad se mide por la eficiencia y el éxito externo, este proyecto propone una revolución:
+💪 It makes you less susceptible to skin diseases, joint problems, and internal organ congestion.
 
-- 🧘‍♀️ **Rehumanizar la tecnología:**  
-  No es solo para cuantificar la salud, sino para enseñar, acompañar y liberar mentes y corazones del miedo y la creencia limitante sobre el miedo a  la muerte y el dolor al nacer.
+♥️ It's an excellent way to avoid all heart diseases (yes, all heart diseases are associated with eating fried meat).
 
-- 🚀 **Empoderar la individualidad:**  
-  Cada usuario puede verse reflejado como una “nube proyectada en el infinito”, aprendiendo que el dolor y el miedo tienen propósito, pero no dominio.
+🛡️ It reduces the risk of cancer, kidney stones, and arteriosclerosis.
 
-- 🤝 **Generar confianza colectiva:**  
-  Al hacer visible la proyección interior, permitimos que la confianza se vuelva estándar, primero en el individuo y luego en la comunidad.
+Remember:
+Every day you choose alkaline food and a clear mind, your blood and your entire body are filled with vital energy.
+This is the balance that Ayurveda and Western medicine agree is a priority for heart health, the happiness of your cells, and the strength of your spirit.
 
-- 🌈 **Crear puentes entre lo espiritual y lo científico:**  
-  Es una app, sí, pero también es una guía, un diario, una conversación—un acto de confianza en la dignidad humana frente a los desafíos modernos.
 
-Este es un proyecto **ambicioso** porque aspira a transformar, no solo a contabilizar. Su valor está en que recuerda la base esencial de vivir:  
-- **ser dignos,  
-- ser conscientes,  
-- y decidir disfrutar la existencia en este espacio natural que solo se destruye si olvidamos nuestra esencia.**
+(installation and git)
 
 ---
 
-## 🖥️ Requisitos Mínimos de Sistema
+## ⚡️ Quick Installation Steps (via Termux/iSH on iOS):
 
-- macOS 13+ (Ventura) o superior
-- iOS 16+ (y watchOS 9+)
-- Xcode 14+ para desarrollo y compilación
-- Acceso a iCloud para sincronización (opcional pero recomendado)
-- Termux (vía iSH shell si usas iOS/iPadOS para emulación y git)
-
----
-
-## ⚡️ Pasos rápidos de instalación (vía Termux/iSH en iOS):
-
-1. Instala [iSH Shell](https://ish.app/) en tu dispositivo iOS.
-2. Abre iSH (emulación de Linux terminal) y ejecuta:
+1. Install [iSH Shell](https://ish.app/) on your iOS device.
+2. Open iSH (Linux terminal emulation) and run:
 
 ```
 apk add git
 git clone https://github.com/Andrei-Barwood/Stargazer.git
 cd Stargazer
 ```
-Puedes explorar los archivos, editar desde Termux/iSH con pico/nano/codigo remoto
+You can explore the files, edit from Termux/iSH with pico/nano/remote code editor.
 
 
-3. Para desarrollo nativo, abre el proyecto desde **Xcode** en Mac y sigue los pasos habituales para compilar en dispositivo físico o simulador.
-
----
-
-### ✨ ¡Confía y disfruta este viaje hacia tu mejor versión!  
-Por cualquier contribución, inspiración o consulta, no dudes en conectar.
+3. For native development, open the project from **Xcode** on a Mac and follow the usual steps to build on a physical device or simulator.
 
 ---
 
-**Esta app es un espacio para la conciencia, la vitalidad y el infinito que habita en cada instante.**
+### ✨ Trust and enjoy this journey towards your best self!
+For any contributions, inspiration, or questions, feel free to connect.
+
+---
+
+**This app is a space for awareness, vitality, and the infinite that resides in every moment.**
