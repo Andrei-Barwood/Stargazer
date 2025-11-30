@@ -1,0 +1,671 @@
+========================================
+ANÁLISIS DE ESTRUCTURA: Stargazer
+Fecha: 2025-11-30 10:19:34
+Ubicación: /Users/kirtantegsingh/Public/Stargazer/stargazer/Stargazer
+========================================
+
+--- README.md (Propósito del Proyecto) ---
+🩸🍋 Alkalinizing Your Blood to Transform Your Life
+The ability to synthesize and assimilate the principles and practices of this app into daily life should be reflected in real changes in your blood.
+🧪 In Western medicine, blood pH is a primary marker of well-being, while Ayurvedic medicine maintains that blood balance determines a person's vitality and longevity.
+
+Therefore, the app reads your pH level and acts as a holistic reminder:
+
+If your pH is too acidic (⚠️), it reminds you that blood should be mostly alkaline to protect life and energy.
+
+To alkalize your blood, it encourages the consumption of:
+
+🍋 Lemons
+
+🍊 Oranges
+
+🥔 Potatoes
+
+🌾 Wheat bran
+
+🥗 Salads with green vegetables (exclusively green)
+
+🥑 Avocados
+
+🌱 Sprouts
+
+🌶️ Green chilies
+
+🫒 Olives or pistachios
+
+☕ Yogi tea
+
+🥕🍠🥬 Carrot juice, beet juice, celery juice, or a combination of the three.
+
+From time to time, the app also reminds you of this Ayurvedic and medical principle 👩‍⚕️👨‍⚕️:
+
+A vegetarian diet is good because:
+
+🌬️ It helps regulate circulation and preserves the elasticity of the arteries.
+
+💪 It makes you less susceptible to skin diseases, joint problems, and internal organ congestion.
+
+♥️ It's an excellent way to avoid all heart diseases (yes, all heart diseases are associated with eating fried meat).
+
+🛡️ It reduces the risk of cancer, kidney stones, and arteriosclerosis.
+
+Remember:
+Every day you choose alkaline food and a clear mind, your blood and your entire body are filled with vital energy.
+This is the balance that Ayurveda and Western medicine agree is a priority for heart health, the happiness of your cells, and the strength of your spirit.
+
+
+# Stargazer App
+
+### A Message for Deep Consciousness and the Journey of Being
+
+**This project is born from the contrast and conflict that reside within the human being. In every moment where doubt and truth meet, the opportunity to illuminate consciousness flourishes: we can view pain, lies, and fear not as enemies, but as portals of learning.**
+
+By building this space, we honor the act of accepting that everything that has form and is material is subject to space and time. We recognize, without shame, that transcendent freedom does not depend on the denial of the physical world, but on the dignity with which we face our limitations and choose to exist with purpose.
+Liberated, time and space lose their dominion over us; the only essential thing is to be trustworthy, capable of deciding to enjoy existence in this natural, sacred space, which no abrupt force, nor destructive desire, can deliberately violate.
+
+The true task is to configure in our minds a profound understanding of the fear of death and the sacred pain of birth. Overcoming these two elements means learning to project our ideas like clouds: clouds with matter, electricity, fiber, and psyche. We are those clouds—we move under the skies and expand from the infinite, without time, without space, without unnecessary limitations.
+
+Every time a lie inhabits our attitude, every time a truth violates our sensitivity, let us remember:
+**Consciousness is not destroyed, it is only transformed.
+Trust in the journey is the key to the projection of being.
+We live and project our essence, just as clouds draw shapes in the air, transforming the infinite into experience without limitations.**
+
+This project does not seek only to improve physical vitality. It seeks to accompany the mind in understanding the place of clouds and electricity in our psyche, to free itself from the limitations that matter imposes, and to remember that all form depends on time and space—but the transcendent self does not. > **Under any sky, we are worthy of existing, worthy of trust, and worthy of traveling towards inner freedom.**
+
+---
+
+## 🛠️ Technical Details & Standards
+
+- 📁 **Modular Structure:**
+The project is organized into clear directories:
+- `Shared/Models` for the main data
+- `Shared/Data` for managers and storage
+- `WatchApp/` and `MacApp/` for optimized interfaces on each platform
+- `iCloudSync/` for secure cloud synchronization
+- `Tests/` for quality and reliability
+
+- 💻 **Swift & SwiftUI:**
+Uses modern Swift and SwiftUI for reactive, secure, and beautiful interfaces on Watch and Mac.
+
+- 🌍 **CloudKit Synchronization:**
+Allows all your vital and spiritual data to travel with you, always secure and private.
+
+- 🔐 **Privacy First:**
+Models and managers are designed to comply with contemporary privacy standards (GDPR-friendly, configurable local and cloud data).
+
+- 🧪 **Automated Testing:**
+Includes examples and spaces for unit tests, ensuring that each model and workflow is sustainable and robust.
+
+- 🌀 **Inspired Visual Customization:**
+Mandalas, gradients, and "characters" adapt to the day, creating an emotional and personalized experience.
+
+---
+
+## 🌞 Social & Philosophical Importance
+
+Contemporary society lives in a permanent conflict between time, space, and the capacity to feel. In a world where vitality is measured by efficiency and external success, this project proposes a revolution:
+
+- 🧘‍♀️ **Rehumanizing technology:**
+It's not just about quantifying health, but about teaching, accompanying, and freeing minds and hearts from fear and limiting beliefs about the fear of death and the pain of birth.
+
+- 🚀 **Empowering individuality:**
+Each user can see themselves reflected as a "cloud projected into infinity," learning that pain and fear have a purpose, but not dominion. 
+- 🤝 **Generating collective trust:**
+By making inner reflection visible, we allow trust to become the standard, first in the individual and then in the community.
+
+- 🌈 **Building bridges between the spiritual and the scientific:**
+It's an app, yes, but it's also a guide, a journal, a conversation—an act of faith in human dignity in the face of modern challenges.
+
+This is an **ambitious** project because it aspires to transform, not just to quantify. Its value lies in reminding us of the essential foundation of living:
+- **to be worthy,
+- to be conscious,
+- and to choose to enjoy existence in this natural space that is only destroyed if we forget our essence.**
+
+---
+
+## 🖥️ Minimum System Requirements
+
+- macOS 13+ (Ventura) or later
+- iOS 16+ (and watchOS 9+)
+- Xcode 14+ for development and compilation
+- iCloud access for synchronization (optional but recommended)
+- Termux (via iSH shell if you use iOS/iPadOS for emulation)
+
+
+(installation and git)
+
+---
+
+## ⚡️ Quick Installation Steps (via Termux/iSH on iOS):
+
+1. Install [iSH Shell](https://ish.app/) on your iOS device.
+2. Open iSH (Linux terminal emulation) and run:
+
+```
+apk add git
+git clone https://github.com/Andrei-Barwood/Stargazer.git
+cd Stargazer
+```
+You can explore the files, edit from Termux/iSH with pico/nano/remote code editor.
+
+
+3. For native development, open the project from **Xcode** on a Mac and follow the usual steps to build on a physical device or simulator.
+
+---
+
+### ✨ Trust and enjoy this journey towards your best self!
+For any contributions, inspiration, or questions, feel free to connect.
+
+---
+
+**This app is a space for awareness, vitality, and the infinite that resides in every moment.**
+
+--- ESTRUCTURA DE DIRECTORIOS Y ARCHIVOS ---
+
+.
+|-- .git
+|   |-- COMMIT_EDITMSG
+|   |-- HEAD
+|   |-- config
+|   |-- description
+|   |-- hooks
+|   |   |-- applypatch-msg.sample
+|   |   |-- commit-msg.sample
+|   |   |-- fsmonitor-watchman.sample
+|   |   |-- post-update.sample
+|   |   |-- pre-applypatch.sample
+|   |   |-- pre-commit.sample
+|   |   |-- pre-merge-commit.sample
+|   |   |-- pre-push.sample
+|   |   |-- pre-rebase.sample
+|   |   |-- pre-receive.sample
+|   |   |-- prepare-commit-msg.sample
+|   |   |-- push-to-checkout.sample
+|   |   `-- update.sample
+|   |-- index
+|   |-- info
+|   |   `-- exclude
+|   |-- logs
+|   |   |-- HEAD
+|   |   `-- refs
+|   |       |-- heads
+|   |       |   `-- main
+|   |       `-- remotes
+|   |           `-- origin
+|   |-- objects
+|   |   |-- 02
+|   |   |   `-- 93664bf86e238d442c4e91773fad8be051b656
+|   |   |-- 04
+|   |   |   `-- 21bff789da0fca05d383c1d081023fa4759f71
+|   |   |-- 05
+|   |   |   |-- bdeaf91a0a6e2e1ab4f605d20b611ac78b6bbf
+|   |   |   `-- cc8bd0eb1ecab802c77077d7efc7e63cbe112b
+|   |   |-- 0c
+|   |   |   `-- de0bdbfa41ace127132bd1359067ff6d9c3a01
+|   |   |-- 10
+|   |   |   `-- ba8316b02697d824c0ed0e2af4061a9727abfe
+|   |   |-- 11
+|   |   |   `-- b25ee1307cc6d6e2b1e25e448ee88569579443
+|   |   |-- 14
+|   |   |   `-- 7e95e25f4d0e456c695db181104f380c0c7d5c
+|   |   |-- 15
+|   |   |   `-- 415d7bc925232d5387c761b60fc4a545327bc1
+|   |   |-- 17
+|   |   |   `-- c981fe14ee301083bad8189936c499885b1650
+|   |   |-- 18
+|   |   |   `-- ebca6c992a95fa099f21aa5d7d680db8090fbb
+|   |   |-- 1a
+|   |   |   `-- 85f45835968111c2ddbd32e3ee8452232845c6
+|   |   |-- 1b
+|   |   |   |-- 0ea36810efab047f46bcd7dfa8e44fadbea236
+|   |   |   `-- ac686b5d6b34427fefae500ae7c52b60c5c480
+|   |   |-- 1f
+|   |   |   `-- 95a0f84ca89b6e4581b8672ed3399c82c95380
+|   |   |-- 20
+|   |   |   |-- 0341f7051a85798663f78306cf22895bbf9cbc
+|   |   |   `-- 5c943b7195bb7cc94ac9ae9536d23809afc1a3
+|   |   |-- 27
+|   |   |   `-- 5522e1fcd56d2e78c2f857af7c16cd67941030
+|   |   |-- 2b
+|   |   |   `-- 9e5d1ac9684a881297a073dc3ef370eb00632e
+|   |   |-- 2c
+|   |   |   `-- d6d63068897e113849d09ee9b4c12e5de3d9f5
+|   |   |-- 2d
+|   |   |   |-- 527bc33a2701867f646af1bf65ba963d85870b
+|   |   |   `-- a3680987dec2a8b9daaad19ca22b909b16ebd4
+|   |   |-- 36
+|   |   |   `-- c52e923a77de400c29f5adcfdcdecfe28eab67
+|   |   |-- 39
+|   |   |   `-- aaec0303fc3ae436a01fd6c1d2dc435f2270b9
+|   |   |-- 3a
+|   |   |   `-- 66fbc9708d4886608aab7e76d80d8356a21a7a
+|   |   |-- 3c
+|   |   |   `-- 0a7f97f4d835ae9bfb887303ffe7c8ec15cccf
+|   |   |-- 41
+|   |   |   `-- c8b3c4b8839a34ef877cbcf57d0942cd611961
+|   |   |-- 44
+|   |   |   `-- 25e2968c71b647df0491dc8997d1f3f246f8f7
+|   |   |-- 48
+|   |   |   `-- df2b40e4be8da79f00ea6fd0a3261ced3ed1ae
+|   |   |-- 53
+|   |   |   `-- 385afb34f34ce2165fbd8aaf5e60c9d002bf72
+|   |   |-- 54
+|   |   |   `-- 4d71c7a30fe6e68ef6bc7a910f3a99624eb54e
+|   |   |-- 55
+|   |   |   `-- 5567b7893040c97bb82491aea0010493e367dd
+|   |   |-- 5a
+|   |   |   `-- 917f5c1c81fd750fb636b466d469e964594182
+|   |   |-- 5b
+|   |   |   |-- 0a237b2d1f6c4576aaa4da810191f5a07721a9
+|   |   |   `-- 4c2dcc60e63a2e1a26045b73deddd3ab4615ab
+|   |   |-- 5d
+|   |   |   `-- 0bc58ce1affb0c096508b9b16e5b0e98977f4c
+|   |   |-- 60
+|   |   |   `-- 982afe1cd5841d32fc11cb5eb3134d5058001e
+|   |   |-- 63
+|   |   |   `-- f16fa41b9a68899f4a1e2f6aa12eef49f7b9cf
+|   |   |-- 65
+|   |   |   `-- 3097ad174462e6115e07835abf8a5211103e11
+|   |   |-- 66
+|   |   |   `-- 2d564cfb61b6cca785981938a8b76957a7d6c8
+|   |   |-- 69
+|   |   |   `-- 7b1d8abdada30bba726a2b9e4d41d8f4b3665e
+|   |   |-- 6b
+|   |   |   `-- 776a18956484fec9eee622b48d3066b0ee80ce
+|   |   |-- 6c
+|   |   |   `-- f3bae7a44d362f0cb6f86792e3c0706ecbf355
+|   |   |-- 6d
+|   |   |   `-- 7c0337565afe6ac05d48f262b7dd123ee2e1ad
+|   |   |-- 6e
+|   |   |   `-- e5fb058a77d8fb2bf18fdb1b9505f8601b94e7
+|   |   |-- 70
+|   |   |   |-- 0c6538d762781b2c2470f24b707c5931ba1ffe
+|   |   |   `-- be31ba1a342fd2fdb11e14c77cfb01c79fd7ce
+|   |   |-- 72
+|   |   |   `-- 2eaad4864aa6d3f515c683e724d6f7b9201cd0
+|   |   |-- 79
+|   |   |   `-- 1db7f85979542d13cc35dd5079da0893267d7d
+|   |   |-- 7b
+|   |   |   `-- b54047c1f428319b34fe6d5f9b3a7665971a8c
+|   |   |-- 80
+|   |   |   `-- 55d06d786562e76d0bea21cb95bd623290e24a
+|   |   |-- 85
+|   |   |   `-- bf202dafe2012969b75ccae400911d0f1a1e3a
+|   |   |-- 86
+|   |   |   `-- 3eb0d098862b429e4cf47dbdb6cd1e7ded8d6f
+|   |   |-- 87
+|   |   |   |-- 7a81658e17109b49e2896a8b2d632bb8bd0d55
+|   |   |   `-- ef58daf9bb423aa402a498404b3d8675d17d69
+|   |   |-- 8c
+|   |   |   |-- 50d08263b88778ca3d3de82912a73f44922fe0
+|   |   |   `-- 6157e7bd8e9c23d7815e36a55af77a0d85885e
+|   |   |-- 98
+|   |   |   `-- 2e41c24c1f471ac2bd8b290abf01251d72e7fe
+|   |   |-- 9b
+|   |   |   `-- e42198a3d2e7e149dfb76475a91b32ffe6b186
+|   |   |-- 9e
+|   |   |   `-- 80128cde03fe86be4c66d714aa63d5375b341a
+|   |   |-- b1
+|   |   |   `-- 9bb5b2e2f24f86473d4af2d197d82e09e4d90d
+|   |   |-- b2
+|   |   |   |-- 3079ac8b0efac600b62f10b6a10b94a57f98e6
+|   |   |   `-- bff172a2f2533728c60fedcc569e404adf248c
+|   |   |-- b4
+|   |   |   `-- 654c47793e481182f7b1d19555937fb1f67fe4
+|   |   |-- b6
+|   |   |   `-- 8c1814b92d1c1e21615b3bcdcdd97ed648a3a2
+|   |   |-- b9
+|   |   |   `-- 78bc6dce641d376396c25d8463ebfead00a91f
+|   |   |-- bc
+|   |   |   |-- 5944f053e1064e81ace9690fa39d4a5be343b8
+|   |   |   `-- 8a56a3d18382bc01b7fcca29656652788794ef
+|   |   |-- be
+|   |   |   `-- 7cb73dbc6b1ec31d8a6777672df12bf7a10bd1
+|   |   |-- c1
+|   |   |   `-- 1e365a13f6bb15a420726ac52eea4ac329ec99
+|   |   |-- c2
+|   |   |   |-- 85c6f4690389ff37da53f5544bcb64e87cafbe
+|   |   |   `-- e9af0030872267589cbc96ce7e8dd927d08a7b
+|   |   |-- c5
+|   |   |   `-- 9dd50352284f4fb661a7fbff3f2640253c94e2
+|   |   |-- d2
+|   |   |   `-- d07efae2add8758d452269144123bed9d7fe88
+|   |   |-- db
+|   |   |   `-- dbae06d69dc0218266d908d2a91def1adf1698
+|   |   |-- e1
+|   |   |   `-- eb7a99409e16e5d518eb5492f213bdddf864f5
+|   |   |-- e6
+|   |   |   `-- 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+|   |   |-- e9
+|   |   |   |-- 522c91ffca85c903f11e9a586fc1ed956c956f
+|   |   |   `-- f39ff132ea7916e5d4f93fc1de8032aab1059c
+|   |   |-- ea
+|   |   |   `-- f05214d2577ed1a8f1637c9185adc613b8cec3
+|   |   |-- ed
+|   |   |   `-- a326f972026ad974a24211d54e49a4eb494a40
+|   |   |-- ee
+|   |   |   `-- 0380e727604d6b22559e96ff99844a71b935ef
+|   |   |-- f1
+|   |   |   `-- 4afcb5ca2eeec918654a455fbf980a344e675d
+|   |   |-- f2
+|   |   |   `-- 15d1545a6b601b4980309303e62ee51318f8a9
+|   |   |-- f3
+|   |   |   `-- 1505050aca429727d5940cf77823cca8eadfae
+|   |   |-- f7
+|   |   |   `-- e117ac1509a3b7741572d15834ca818e0a38f1
+|   |   |-- fa
+|   |   |   |-- 8d919e801648614a11fdd30621328fda7e0113
+|   |   |   `-- e82b463eb3fd7d83c15a77dcd59810aef61b56
+|   |   |-- info
+|   |   `-- pack
+|   |       |-- pack-3da512f06b7f95d11d20dadea086593ee5669260.idx
+|   |       `-- pack-3da512f06b7f95d11d20dadea086593ee5669260.pack
+|   |-- packed-refs
+|   `-- refs
+|       |-- heads
+|       |   `-- main
+|       |-- remotes
+|       |   `-- origin
+|       |       |-- HEAD
+|       |       `-- main
+|       `-- tags
+|-- App
+|   |-- AppDelegate.swift
+|   |-- KundaliniVitalityApp.swift
+|   |-- NotificationManager.swift
+|   `-- SceneDelegate.swift
+|-- MacApp
+|   |-- Resources
+|   |   `-- Localizable.strings
+|   |-- ViewModels
+|   |   |-- DiaryMacViewModel.swift
+|   |   |-- KriyaCatalogViewModel.swift
+|   |   |-- MainViewModel.swift
+|   |   `-- PhViewModel.swift
+|   `-- Views
+|       |-- DiaryEntriesMacListView.swift
+|       |-- DiaryEntryMacView.swift
+|       |-- GuidedTrainingMacView.swift
+|       |-- KriyaCatalogView.swift
+|       |-- MainDashboardView.swift
+|       |-- MandalaMacView.swift
+|       `-- PhHistoryView.swift
+|-- README.md
+|-- Shared
+|   |-- Data
+|   |   |-- DiaryStore.swift
+|   |   |-- KriyaCatalogLoader.swift
+|   |   |-- MandalaManager.swift
+|   |   `-- PhStore.swift
+|   |-- Models
+|   |   |-- DiaryEntry.swift
+|   |   |-- Kriya.swift
+|   |   |-- MandalaIdentity.swift
+|   |   |-- PhHistoryEntry.swift
+|   |   |-- UserProfile.swift
+|   |   `-- VitalSigns.swift
+|   `-- Utils
+|       |-- AppConstants.swift
+|       |-- CoachingGenerator.swift
+|       `-- SuggestionEngine.swift
+|-- Tests
+|   |-- MacAppTests
+|   |   |-- DashboardViewTests.swift
+|   |   `-- PhHistoryViewTests.swift
+|   |-- SharedTests
+|   |   |-- DiaryEntryTests.swift
+|   |   |-- KriyaTests.swift
+|   |   `-- VitalSignsTests.swift
+|   `-- WatchAppTests
+|       |-- HomeViewTests.swift
+|       `-- TrainingViewTests.swift
+|-- WatchApp
+|   |-- Resources
+|   |   `-- Localizable.strings
+|   |-- ViewModels
+|   |   |-- DiaryViewModel.swift
+|   |   |-- HomeViewModel.swift
+|   |   |-- TrainingViewModel.swift
+|   |   `-- VitalViewModel.swift
+|   `-- Views
+|       |-- DiaryEntryView.swift
+|       |-- DiaryListView.swift
+|       |-- GuidedTrainingView.swift
+|       |-- HomeView.swift
+|       |-- MandalaView.swift
+|       |-- PhTestView.swift
+|       |-- VitalInputView.swift
+|       `-- VitalKriyaSuggestionView.swift
+|-- iCloudSync
+|   |-- CloudStorage.swift
+|   `-- SyncManager.swift
+|-- jerarquia.zsh
+`-- stargazer_structure_20251130_101934.log
+
+110 directories, 169 files
+
+
+--- CONTEO DE ARCHIVOS POR EXTENSIÓN ---
+
+  49 swift
+   2 strings
+   1 zsh
+   1 md
+   1 log
+
+
+--- ARCHIVOS VACÍOS (0 BYTES) ---
+
+./iCloudSync/SyncManager.swift
+./iCloudSync/CloudStorage.swift
+./App/NotificationManager.swift
+./App/AppDelegate.swift
+./App/KundaliniVitalityApp.swift
+./App/SceneDelegate.swift
+./Tests/MacAppTests/DashboardViewTests.swift
+./Tests/MacAppTests/PhHistoryViewTests.swift
+./Tests/WatchAppTests/TrainingViewTests.swift
+./Tests/WatchAppTests/HomeViewTests.swift
+./Tests/SharedTests/VitalSignsTests.swift
+./Tests/SharedTests/DiaryEntryTests.swift
+./Tests/SharedTests/KriyaTests.swift
+./WatchApp/ViewModels/HomeViewModel.swift
+./WatchApp/ViewModels/DiaryViewModel.swift
+./WatchApp/ViewModels/TrainingViewModel.swift
+./WatchApp/ViewModels/VitalViewModel.swift
+./WatchApp/Resources/Localizable.strings
+./WatchApp/Views/VitalKriyaSuggestionView.swift
+./WatchApp/Views/DiaryListView.swift
+./WatchApp/Views/DiaryEntryView.swift
+./WatchApp/Views/GuidedTrainingView.swift
+./WatchApp/Views/MandalaView.swift
+./MacApp/ViewModels/DiaryMacViewModel.swift
+./MacApp/ViewModels/MainViewModel.swift
+./MacApp/ViewModels/PhViewModel.swift
+./MacApp/ViewModels/KriyaCatalogViewModel.swift
+./MacApp/Resources/Localizable.strings
+./MacApp/Views/DiaryEntryMacView.swift
+./MacApp/Views/KriyaCatalogView.swift
+./MacApp/Views/PhHistoryView.swift
+./MacApp/Views/MainDashboardView.swift
+./MacApp/Views/DiaryEntriesMacListView.swift
+./MacApp/Views/GuidedTrainingMacView.swift
+./MacApp/Views/MandalaMacView.swift
+
+
+--- ESTRUCTURA JERÁRQUICA COMPLETA ---
+
+├── .
+├── .git
+  ├── hooks
+  ├── info
+  ├── logs
+    ├── refs
+      ├── heads
+      ├── remotes
+        ├── origin
+  ├── objects
+    ├── 02
+    ├── 04
+    ├── 05
+    ├── 0c
+    ├── 10
+    ├── 11
+    ├── 14
+    ├── 15
+    ├── 17
+    ├── 18
+    ├── 1a
+    ├── 1b
+    ├── 1f
+    ├── 20
+    ├── 27
+    ├── 2b
+    ├── 2c
+    ├── 2d
+    ├── 36
+    ├── 39
+    ├── 3a
+    ├── 3c
+    ├── 41
+    ├── 44
+    ├── 48
+    ├── 53
+    ├── 54
+    ├── 55
+    ├── 5a
+    ├── 5b
+    ├── 5d
+    ├── 60
+    ├── 63
+    ├── 65
+    ├── 66
+    ├── 69
+    ├── 6b
+    ├── 6c
+    ├── 6d
+    ├── 6e
+    ├── 70
+    ├── 72
+    ├── 79
+    ├── 7b
+    ├── 80
+    ├── 85
+    ├── 86
+    ├── 87
+    ├── 8c
+    ├── 98
+    ├── 9b
+    ├── 9e
+    ├── b1
+    ├── b2
+    ├── b4
+    ├── b6
+    ├── b9
+    ├── bc
+    ├── be
+    ├── c1
+    ├── c2
+    ├── c5
+    ├── d2
+    ├── db
+    ├── e1
+    ├── e6
+    ├── e9
+    ├── ea
+    ├── ed
+    ├── ee
+    ├── f1
+    ├── f2
+    ├── f3
+    ├── f7
+    ├── fa
+    ├── info
+    ├── pack
+  ├── refs
+    ├── heads
+    ├── remotes
+      ├── origin
+    ├── tags
+├── App
+  ├── AppDelegate.swift
+  ├── KundaliniVitalityApp.swift
+  ├── NotificationManager.swift
+  ├── SceneDelegate.swift
+├── MacApp
+  ├── Resources
+    ├── Localizable.strings
+  ├── ViewModels
+    ├── DiaryMacViewModel.swift
+    ├── KriyaCatalogViewModel.swift
+    ├── MainViewModel.swift
+    ├── PhViewModel.swift
+  ├── Views
+    ├── DiaryEntriesMacListView.swift
+    ├── DiaryEntryMacView.swift
+    ├── GuidedTrainingMacView.swift
+    ├── KriyaCatalogView.swift
+    ├── MainDashboardView.swift
+    ├── MandalaMacView.swift
+    ├── PhHistoryView.swift
+├── README.md
+├── Shared
+  ├── Data
+    ├── DiaryStore.swift
+    ├── KriyaCatalogLoader.swift
+    ├── MandalaManager.swift
+    ├── PhStore.swift
+  ├── Models
+    ├── DiaryEntry.swift
+    ├── Kriya.swift
+    ├── MandalaIdentity.swift
+    ├── PhHistoryEntry.swift
+    ├── UserProfile.swift
+    ├── VitalSigns.swift
+  ├── Utils
+    ├── AppConstants.swift
+    ├── CoachingGenerator.swift
+    ├── SuggestionEngine.swift
+├── Tests
+  ├── MacAppTests
+    ├── DashboardViewTests.swift
+    ├── PhHistoryViewTests.swift
+  ├── SharedTests
+    ├── DiaryEntryTests.swift
+    ├── KriyaTests.swift
+    ├── VitalSignsTests.swift
+  ├── WatchAppTests
+    ├── HomeViewTests.swift
+    ├── TrainingViewTests.swift
+├── WatchApp
+  ├── Resources
+    ├── Localizable.strings
+  ├── ViewModels
+    ├── DiaryViewModel.swift
+    ├── HomeViewModel.swift
+    ├── TrainingViewModel.swift
+    ├── VitalViewModel.swift
+  ├── Views
+    ├── DiaryEntryView.swift
+    ├── DiaryListView.swift
+    ├── GuidedTrainingView.swift
+    ├── HomeView.swift
+    ├── MandalaView.swift
+    ├── PhTestView.swift
+    ├── VitalInputView.swift
+    ├── VitalKriyaSuggestionView.swift
+├── iCloudSync
+  ├── CloudStorage.swift
+  ├── SyncManager.swift
+├── jerarquia.zsh
+├── stargazer_structure_20251130_101934.log
+
+
+--- INFORMACIÓN DE GIT ---
+Branch actual: main
+Commits totales: 16
+Último commit: f7e117ac1509a3b7741572d15834ca818e0a38f1 description
+
+========================================
+Análisis completado: 2025-11-30 10:19:34
+========================================
